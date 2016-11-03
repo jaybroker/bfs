@@ -168,7 +168,7 @@ fi
 cd ${WORK_DIR}
 
 ########################################
-# config depengs.mk
+# config depends.mk
 ########################################
 
 echo "PBRPC_PATH=./thirdparty" > depends.mk
